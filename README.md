@@ -19,9 +19,7 @@ the [older version][2] of this library.
 Install the library using Composer. Please read the [Composer Documentation](https://getcomposer.org/doc/01-basic-usage.md) if you are unfamiliar with Composer or dependency managers in general.
 
 ```json
-"require": {
-    "coinbase/coinbase": "~2.0"
-}
+"composer require satyandra-softuvo/coinbase"
 ```
 
 ## Authentication
